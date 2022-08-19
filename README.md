@@ -2,6 +2,10 @@
 Xojo Desktop Post It Notes with Json Database // MacOs and Windows // Xojo 2017+ requis
 
 
+<img src="WindowsCapture.jpg" width="640">
+Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
+
+
 Historique des Versions :
 
 v0.011 du 25/08/2020
