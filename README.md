@@ -1,6 +1,17 @@
 # JsonPostItNotes
 Xojo Desktop Post It Notes with Json Database // MacOs and Windows // Xojo 2017+ requis
 
+Fonctionnalités :
+- Fonctionne sous MacOs et Windows
+- Sauvegarde des Notes sous Json Database
+- TrayIcon sous Windows
+- Edition des Notes via Fenêtre classique
+- Affichage des Notes et sauvegarde avec couleurs, taille et emplacement personnalisables
+
+ToDo List :
+  - Backup Notes / Import Backuped Notes
+  - Démarrage automatique sous Windows et MacOs ??
+
 
 <img src="WindowsCapture.jpg" width="640">
 Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
