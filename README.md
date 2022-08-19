@@ -11,6 +11,8 @@ Fonctionnalités :
 ToDo List :
   - Backup Notes / Import Backuped Notes
   - Démarrage automatique sous Windows et MacOs ??
+  - Afficher des Notes à une date fixe (type ToDo)
+  - Afficher des Notes à une heure fixe (type rappel)
 
 
 <img src="WindowsCapture.jpg" width="640">
