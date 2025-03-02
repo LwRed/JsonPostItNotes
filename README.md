@@ -4,10 +4,10 @@ Xojo Desktop Post It Notes with Json Database // MacOs and Windows // Xojo 2017+
 Fonctionnalités :
 - Fonctionne sous MacOs et Windows
 - Sauvegarde des Notes sous Json Database
-- TrayIcon sous Windows
+- TrayIcon sous Windows, éditeur qui se réaffiche en cliquant dans la barre des tâches sous MacOs
 - Edition des Notes via Fenêtre classique
 - Affichage des Notes et sauvegarde avec couleurs, taille et emplacement personnalisables
-- Notes cachées dans la barre des tâches (Windows)
+- Notes cachées dans la barre des tâches (Windows & Mac)
 
 ToDo List :
   - Backup Notes / Import Backuped Notes
@@ -25,6 +25,7 @@ Historique des Versions :
 v0.12 du 02/03/2025
 Résolution d'un bug dans le réaffichage de l'éditeur (les notes etaient doublées, triplées, etc.)
 Sous Windows, les notes sont désormais invisibles dans la barre des tâches (seul l'éditeur est visible)
+Sous Mac, l'éditeur se réaffiche désormais correctement en cliquant sur l'icône de la barre des tâches
 
 v0.11 du 25/08/2020
 Ajout d'une icône au TrayItem (Windows uniquement)
