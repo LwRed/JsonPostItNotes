@@ -7,6 +7,7 @@ Fonctionnalités :
 - TrayIcon sous Windows
 - Edition des Notes via Fenêtre classique
 - Affichage des Notes et sauvegarde avec couleurs, taille et emplacement personnalisables
+- Notes cachées dans la barre des tâches (Windows)
 
 ToDo List :
   - Backup Notes / Import Backuped Notes
@@ -20,6 +21,10 @@ Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_but
 
 
 Historique des Versions :
+
+v0.12 du 02/03/2025
+Résolution d'un bug dans le réaffichage de l'éditeur (les notes etaient doublées, triplées, etc.)
+Sous Windows, les notes sont désormais invisibles dans la barre des tâches (seul l'éditeur est visible)
 
 v0.11 du 25/08/2020
 Ajout d'une icône au TrayItem (Windows uniquement)
